@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>bulldozer17.jpg</filename>
+	<path>C:/Users/scit/Desktop/ppwa_SKKU/2021년 1학기/TensorflowAI-main/bulldozer/images/bulldozer17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bulldozer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>97</ymin>
+			<xmax>1208</xmax>
+			<ymax>726</ymax>
+		</bndbox>
+	</object>
+</annotation>
